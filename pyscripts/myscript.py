@@ -1,2 +1,2 @@
 print("Hello, World!")
-print("Welcome to DEVASC!")
+print("Welcome to DevAsc!")
