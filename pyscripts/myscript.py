@@ -1,3 +1,3 @@
 print("Hello, World!")
 print("Welcome to DevAsc!")
-print("This is a test script. 2024 edition.")
+print("This is my third test script.")
